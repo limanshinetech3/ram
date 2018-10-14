@@ -5,7 +5,7 @@
 -   [直接为 RAM 用户授权](#section_odn_kgf_xdb)
 -   [为用户所属的用户组授权](#section_tdn_kgf_xdb)
 
-以上两种方法均可达到授予 RAM 用户相关资源访问权限的目的。
+以上两种方法均可达到授予 RAM 用户相关资源访问权限的目的。当两种授权都存在时，RAM用户的最终权限为两种授权方法的权限的并集。
 
 ## 背景知识 {#section_ndn_kgf_xdb .section}
 
